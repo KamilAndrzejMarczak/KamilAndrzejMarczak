@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently learning **full stack web development**
 
-- 📫 You can write to me via **kamil.andrzej.marczak@gmail.com**
+- 📫 You can write to me via **kamil.marczak@interia.pl**
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
